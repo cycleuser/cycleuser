@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-<!--
-**cycleuser/cycleuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am CycleUser, PHD of Geology form China University of Geosciences Beijing - China.
 
+I mostly work with Python and QGIS.
+
+![Cycleuser's github stats](https://github-readme-stats.vercel.app/api?username=cycleuser&count_private=true)
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📫 How to reach me
+
+- Visit my [Blog](https://blog.cycleuser.org/) 🌐
