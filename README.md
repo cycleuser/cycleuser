@@ -6,6 +6,11 @@ I mostly work with Python and QGIS.
 
 ![Cycleuser's github stats](https://github-readme-stats.vercel.app/api?username=cycleuser&count_private=true)
 
+<a href="https://github.com/cycleuser">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=cycleuser&layout=compact" />
+</a>
+
 <!--
 Here are some ideas to get you started:
 
