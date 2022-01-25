@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am CycleUser, PHD of Geology form China University of Geosciences Beijing - China.
+I am CycleUser, PHD form China University of Geosciences Beijing.
 
 I mostly work with Python and QGIS.
 
