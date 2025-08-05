@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 <!-- <table>
 <tr>
 <td> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=cycleuser&margin-w=15&no-bg=true&no-frame=true&theme=onedark&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=cycleuser&margin-w=15&no-bg=true&no-frame=true&theme=onedark&row=1&column=6"/>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cycleuser&show_icons=true&hide_title=true&hide_rank=true&hide=issues&count_private=false&disable_animations=true"/>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycleuser&layout=compact&langs_count=4&hide=javascript,html,css"/>
+</p>
+
 <!-- </td> -->
 <!-- <td border="0px">
   <img src="https://github-readme-stats.vercel.app/api?username=cycleuser&count_private=true&show_icons=true&theme=onedark&hide_border=true&bg_color=00000000">
